@@ -1,1 +1,2 @@
 gcr.io/cadvisor/cadvisor
+ghcr.io/librespeed/speedtest
