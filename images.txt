@@ -1,3 +1,2 @@
 ghcr.io/google/cadvisor:0.54.1
 ghcr.io/librespeed/speedtest
-ghcr.io/lunatechlab/moontv
